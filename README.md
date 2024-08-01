@@ -1,0 +1,1 @@
+This project focuses on using linear regression to analyze and predict Olympic performance metrics. By leveraging historical data, I aim to understand trends and make predictions for future Olympic games. This project includes data preprocessing, model training, and evaluation.
